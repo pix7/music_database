@@ -1,0 +1,24 @@
+[
+    {
+        "value": "所有课表",
+        "id": "allschedules",
+        "opened": true,
+        "items": [
+            {
+                "value": "必修",
+                "id": "Study",
+                "opened": true
+            },
+            {
+                "value": "选修",
+                "id": "Amusement"
+            },
+            {
+                "value": "辅修",
+                "id": "fuxiu"
+            }
+             
+        ]
+    }
+    
+]

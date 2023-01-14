@@ -1,0 +1,62 @@
+
+
+    #title{
+    	padding-left:0%;
+
+       width:300px;
+
+       height:55px;
+
+       margin:0 auto;
+       vertical-align:middle;
+
+       border:0px 
+
+       }
+	#bc1{
+       width:48px;
+       height:48px;
+       margin:0 auto;
+
+       border:0px solid green
+
+       }
+    #hy{
+
+       width:165px;
+       height:80px;
+
+       margin:0 auto;
+       vertical-align:middle;
+
+       border:0px solid green
+
+       }
+    #log{
+    	padding-left:0%;
+       width:320px;
+       height:100px;
+
+       margin:0 auto;
+       vertical-align:middle;
+
+       border:0px solid green
+
+       }       
+	#login
+	{
+		 width:80px;
+		  height:80px
+	}
+	th{ height: 80px
+	}
+   td{text-align: center;
+   height: 50px
+   
+       }   
+       
+   body
+   {background-color:#ddf5de;
+   color: #5a935c;
+   font-size: 20px
+   }

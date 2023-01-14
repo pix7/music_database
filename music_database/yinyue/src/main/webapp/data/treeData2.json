@@ -1,0 +1,20 @@
+[
+    {
+        "value": "所有日程",
+        "id": "allschedules",
+        "opened": true,
+        "items": [
+            {
+                "value": "学习",
+                "id": "Study",
+                "opened": true
+            },
+            {
+                "value": "娱乐",
+                "id": "Amusement"
+            }
+             
+        ]
+    }
+    
+]

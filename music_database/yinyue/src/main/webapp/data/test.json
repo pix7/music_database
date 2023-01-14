@@ -1,0 +1,124 @@
+[
+	{
+                        "type": "datepicker",
+                        "label": "开始日期",
+                        "required": true,
+                        "labelPosition": "left",
+                        "labelWidth": "130px",
+                        "id": "datepickerBeg",
+                        "name": "datepickerBeg"
+                    },
+                    {
+                        "type": "timepicker",
+                        "controls": "true",
+                        "label": "开始时间",
+                        "required": true,
+                        "labelPosition": "left",
+                        "labelWidth": "130px",
+                        "id": "timepickerBeg",
+                        "name": "timepickerBeg"
+                    },
+                    {
+                        "type": "datepicker",
+                        "label": "结束日期",
+                        "required": true,
+                        "labelPosition": "left",
+                        "labelWidth": "130px",
+                        "id": "datepickerEnd",
+                        "name": "datepickerEnd"
+                    },
+                    {
+                        "type": "timepicker",
+                        "controls": "true",
+                        "label": "结束时间",
+                        "required": true,
+                        "labelPosition": "left",
+                        "labelWidth": "130px",
+                        "id": "timepickerEnd",
+                        "name": "timepickerEnd"
+                    },
+                    {
+                        "type": "slider",
+                        "label": "重复频率（天）",
+                        "css": "slider",
+                        "labelPosition": "left",
+                        "labelWidth": "130px",
+                        "min": 1,
+                        "max": 7,
+                        "id": "slider",
+                        "name": "slider"
+                    },
+                    {
+                        "type": "select",
+                        "label": "建筑物",
+                        "labelPosition": "left",
+                        "labelWidth": "130px",
+                        "value": "",
+                        "id": "select",
+                        "name": "selectBuild",
+                        "options": [
+                            {
+                                "value": "",
+                                "content": ""
+                            },
+                            {
+                                "value": "1",
+                                "content": "理科大楼"
+                            },
+                            {
+                                "value": "2",
+                                "content": "文史楼"
+                            },
+                            {
+                                "value": "3",
+                                "content": "田楼"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "label": "房间类型",
+                        "labelPosition": "left",
+                        "labelWidth": "130px",
+                        "value": "",
+                        "id": "Roomtype",
+                        "name": "Roomtype",
+                        "options": [
+                            {
+                                "value": "",
+                                "content": ""
+                            },
+                            {
+                                "value": "1",
+                                "content": "教室"
+                            },
+                            {
+                                "value": "2",
+                                "content": "会议室"
+                            },
+                            {
+                                "value": "3",
+                                "content": "机房"
+                            }
+                        ]
+                    },
+                    {
+                        "align": "end",
+                        "cols": [
+                            {
+                                "gravity": false,
+                                "type": "button",
+                                "submit": true,
+                                "value": "查询",
+                                "size": "medium",
+                                "view": "flat",
+                                "color": "primary",
+                                "id": "button",
+                                "name": "button"
+                            }
+                        ]
+                    }
+
+
+
+]

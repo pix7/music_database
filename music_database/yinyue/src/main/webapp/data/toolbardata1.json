@@ -1,0 +1,23 @@
+[   
+    {
+        "id": "searchWindow",
+        "type": "button",
+        "value":"查找"
+    },
+    {
+        "id": "searchWindowAdv",
+        "type": "button",
+        "value":"高级查找"
+    },
+    {
+        "id": "reserveWindow",
+        "type": "button",
+        "value":"预定"
+    },
+    {
+        "id": "reserveWindowAdv",
+        "type": "button",
+        "value":"高级预定"
+    }
+    
+]

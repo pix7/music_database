@@ -1,0 +1,23 @@
+[   
+    {
+        "id": "searchWindow",
+        "type": "button",
+        "value":"查找"
+    },
+    {
+        "id": "reserveWindow",
+        "type": "button",
+        "value":"预定"
+    },
+    {
+        "id": "mycalendar",
+        "type": "button",
+        "value":"我的日程"
+    },
+    {
+        "id": "myschedule",
+        "type": "button",
+        "value":"预定会议室"
+    }
+    
+]
